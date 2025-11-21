@@ -1,0 +1,7 @@
+speechrecognition
+pydub
+streamlit
+openai-whisper
+transformers
+torch
+python-docx
